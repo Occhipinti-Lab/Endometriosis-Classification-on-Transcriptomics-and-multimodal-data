@@ -17,27 +17,41 @@ cd Endometriosis-Classification-on-Transcriptomics-and-multimodal-data-main
 which ever machine you're using you need to create a virtual environment to use it by python 3.10. Because some of The scFBApy functions supports only python 3.10.
 
 ### Create virtual environment with Python 3.10
+
+```bash
 python3.10 -m venv venv
+```
 
 ### Activate virtual environment
 ### For Linux/macOS:
+```bash
 source venv/bin/activate
+```
 ### For Windows (PowerShell):
-### venv\Scripts\activate
-
+```bash
+venv\Scripts\activate
+```
 ### Upgrade pip and install dependencies
+```bash
 pip install --upgrade pip
 pip install -r requirements.txt
-
+```
 ### (If requirements.txt is missing, install Jupyter manually)
-### pip install jupyter ipykernel
 
+```bash
+pip install jupyter ipykernel
+```
 ### Add virtual environment as Jupyter kernel
+
+```bash
 python -m ipykernel install --user --name=venv --display-name "Python (venv)"
+```
 
 ### Start Jupyter Notebook
-jupyter notebook
 
+```bash
+jupyter notebook
+```
 
 ### utils_scFBApy.py and pipeline_scFBApy.py files are from actual source of scFBApy.
 
