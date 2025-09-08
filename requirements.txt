@@ -1,0 +1,6 @@
+cobra
+scanpy
+ipykernel
+progressbar
+scikit-learn
+xgboost
