@@ -1,0 +1,597 @@
+input_reaction,hg_rxn_id,kegg_reaction,kegg_pathway_id,kegg_pathway_name
+asp_L_t,,,,
+glu_L_t,,,,
+AKGMALtm,MAR04852,,,
+HMR_4964,MAR04964,,,
+carnitineAcylTransferaseI,,,,
+HMGCOASm,MAR01573,R01978,map00280,"Valine, leucine and isoleucine degradation"
+HMGCOASm,MAR01573,R01978,map00650,Butanoate metabolism
+HMGCOASm,MAR01573,R01978,map00900,Terpenoid backbone biosynthesis
+HMGCOASm,MAR01573,R01978,map01100,Metabolic pathways
+HMGCOASm,MAR01573,R01978,map01110,Biosynthesis of secondary metabolites
+HMGCOASm,MAR01573,R01978,rn00280,"Valine, leucine and isoleucine degradation"
+HMGCOASm,MAR01573,R01978,rn00650,Butanoate metabolism
+HMGCOASm,MAR01573,R01978,rn00900,Terpenoid backbone biosynthesis
+HMGCOASm,MAR01573,R01978,rn01100,Metabolic pathways
+HMGCOASm,MAR01573,R01978,rn01110,Biosynthesis of secondary metabolites
+HDCAt,MAR00216,,,
+PSP_L,MAR03843,R00582,map00260,"Glycine, serine and threonine metabolism"
+PSP_L,MAR03843,R00582,map00680,Methane metabolism
+PSP_L,MAR03843,R00582,map01100,Metabolic pathways
+PSP_L,MAR03843,R00582,map01110,Biosynthesis of secondary metabolites
+PSP_L,MAR03843,R00582,map01120,Microbial metabolism in diverse environments
+PSP_L,MAR03843,R00582,map01200,Carbon metabolism
+PSP_L,MAR03843,R00582,map01230,Biosynthesis of amino acids
+PSP_L,MAR03843,R00582,rn00260,"Glycine, serine and threonine metabolism"
+PSP_L,MAR03843,R00582,rn00680,Methane metabolism
+PSP_L,MAR03843,R00582,rn01100,Metabolic pathways
+PSP_L,MAR03843,R00582,rn01110,Biosynthesis of secondary metabolites
+PSP_L,MAR03843,R00582,rn01120,Microbial metabolism in diverse environments
+PSP_L,MAR03843,R00582,rn01200,Carbon metabolism
+PSP_L,MAR03843,R00582,rn01230,Biosynthesis of amino acids
+THRD_L,MAR04348,R00996,map00260,"Glycine, serine and threonine metabolism"
+THRD_L,MAR04348,R00996,map00290,"Valine, leucine and isoleucine biosynthesis"
+THRD_L,MAR04348,R00996,map01100,Metabolic pathways
+THRD_L,MAR04348,R00996,map01110,Biosynthesis of secondary metabolites
+THRD_L,MAR04348,R00996,map01230,Biosynthesis of amino acids
+THRD_L,MAR04348,R00996,rn00260,"Glycine, serine and threonine metabolism"
+THRD_L,MAR04348,R00996,rn00290,"Valine, leucine and isoleucine biosynthesis"
+THRD_L,MAR04348,R00996,rn01100,Metabolic pathways
+THRD_L,MAR04348,R00996,rn01110,Biosynthesis of secondary metabolites
+THRD_L,MAR04348,R00996,rn01230,Biosynthesis of amino acids
+ACONTm,,,,
+GLUDym,MAR03804,R00248,map00220,Arginine biosynthesis
+GLUDym,MAR03804,R00248,map00250,"Alanine, aspartate and glutamate metabolism"
+GLUDym,MAR03804,R00248,map00910,Nitrogen metabolism
+GLUDym,MAR03804,R00248,map01100,Metabolic pathways
+GLUDym,MAR03804,R00248,map01120,Microbial metabolism in diverse environments
+GLUDym,MAR03804,R00248,map01200,Carbon metabolism
+GLUDym,MAR03804,R00248,rn00220,Arginine biosynthesis
+GLUDym,MAR03804,R00248,rn00250,"Alanine, aspartate and glutamate metabolism"
+GLUDym,MAR03804,R00248,rn00910,Nitrogen metabolism
+GLUDym,MAR03804,R00248,rn01100,Metabolic pathways
+GLUDym,MAR03804,R00248,rn01120,Microbial metabolism in diverse environments
+GLUDym,MAR03804,R00248,rn01200,Carbon metabolism
+ABUTD,MAR04689,R02549,map00330,Arginine and proline metabolism
+ABUTD,MAR04689,R02549,map00410,beta-Alanine metabolism
+ABUTD,MAR04689,R02549,map01100,Metabolic pathways
+ABUTD,MAR04689,R02549,rn00330,Arginine and proline metabolism
+ABUTD,MAR04689,R02549,rn00410,beta-Alanine metabolism
+ABUTD,MAR04689,R02549,rn01100,Metabolic pathways
+ser_L_t,,,,
+GLYC3Ptm,MAR08891,,,
+CystinePyruvate,,,,
+PGI,MAR04381,R00771,map00500,Starch and sucrose metabolism
+PGI,MAR04381,R00771,map01100,Metabolic pathways
+PGI,MAR04381,R00771,map01110,Biosynthesis of secondary metabolites
+PGI,MAR04381,R00771,rn00500,Starch and sucrose metabolism
+PGI,MAR04381,R00771,rn01100,Metabolic pathways
+PGI,MAR04381,R00771,rn01110,Biosynthesis of secondary metabolites
+METS,MAR03917,R00946,map00270,Cysteine and methionine metabolism
+METS,MAR03917,R00946,map00670,One carbon pool by folate
+METS,MAR03917,R00946,map01100,Metabolic pathways
+METS,MAR03917,R00946,map01110,Biosynthesis of secondary metabolites
+METS,MAR03917,R00946,map01230,Biosynthesis of amino acids
+METS,MAR03917,R00946,rn00270,Cysteine and methionine metabolism
+METS,MAR03917,R00946,rn00670,One carbon pool by folate
+METS,MAR03917,R00946,rn01100,Metabolic pathways
+METS,MAR03917,R00946,rn01110,Biosynthesis of secondary metabolites
+METS,MAR03917,R00946,rn01230,Biosynthesis of amino acids
+ILETA,MAR03777,R01090,map00280,"Valine, leucine and isoleucine degradation"
+ILETA,MAR03777,R01090,map00290,"Valine, leucine and isoleucine biosynthesis"
+ILETA,MAR03777,R01090,map00966,Glucosinolate biosynthesis
+ILETA,MAR03777,R01090,map01100,Metabolic pathways
+ILETA,MAR03777,R01090,map01110,Biosynthesis of secondary metabolites
+ILETA,MAR03777,R01090,map01210,2-Oxocarboxylic acid metabolism
+ILETA,MAR03777,R01090,map01230,Biosynthesis of amino acids
+ILETA,MAR03777,R01090,rn00280,"Valine, leucine and isoleucine degradation"
+ILETA,MAR03777,R01090,rn00290,"Valine, leucine and isoleucine biosynthesis"
+ILETA,MAR03777,R01090,rn00966,Glucosinolate biosynthesis
+ILETA,MAR03777,R01090,rn01100,Metabolic pathways
+ILETA,MAR03777,R01090,rn01110,Biosynthesis of secondary metabolites
+ILETA,MAR03777,R01090,rn01210,2-Oxocarboxylic acid metabolism
+ILETA,MAR03777,R01090,rn01230,Biosynthesis of amino acids
+TMDK1,MAR04054,R01567,map00240,Pyrimidine metabolism
+TMDK1,MAR04054,R01567,map01100,Metabolic pathways
+TMDK1,MAR04054,R01567,map01232,Nucleotide metabolism
+TMDK1,MAR04054,R01567,rn00240,Pyrimidine metabolism
+TMDK1,MAR04054,R01567,rn01100,Metabolic pathways
+TMDK1,MAR04054,R01567,rn01232,Nucleotide metabolism
+ABUTH,,,,
+ASNS1,MAR03903,R00578,map00250,"Alanine, aspartate and glutamate metabolism"
+ASNS1,MAR03903,R00578,map01100,Metabolic pathways
+ASNS1,MAR03903,R00578,map01110,Biosynthesis of secondary metabolites
+ASNS1,MAR03903,R00578,map01230,Biosynthesis of amino acids
+ASNS1,MAR03903,R00578,rn00250,"Alanine, aspartate and glutamate metabolism"
+ASNS1,MAR03903,R00578,rn01100,Metabolic pathways
+ASNS1,MAR03903,R00578,rn01110,Biosynthesis of secondary metabolites
+ASNS1,MAR03903,R00578,rn01230,Biosynthesis of amino acids
+VALTAim,MAR03744,R01214,map00280,"Valine, leucine and isoleucine degradation"
+VALTAim,MAR03744,R01214,map00290,"Valine, leucine and isoleucine biosynthesis"
+VALTAim,MAR03744,R01214,map00770,Pantothenate and CoA biosynthesis
+VALTAim,MAR03744,R01214,map00966,Glucosinolate biosynthesis
+VALTAim,MAR03744,R01214,map01100,Metabolic pathways
+VALTAim,MAR03744,R01214,map01110,Biosynthesis of secondary metabolites
+VALTAim,MAR03744,R01214,map01210,2-Oxocarboxylic acid metabolism
+VALTAim,MAR03744,R01214,map01230,Biosynthesis of amino acids
+VALTAim,MAR03744,R01214,map01240,Biosynthesis of cofactors
+VALTAim,MAR03744,R01214,rn00280,"Valine, leucine and isoleucine degradation"
+VALTAim,MAR03744,R01214,rn00290,"Valine, leucine and isoleucine biosynthesis"
+VALTAim,MAR03744,R01214,rn00770,Pantothenate and CoA biosynthesis
+VALTAim,MAR03744,R01214,rn00966,Glucosinolate biosynthesis
+VALTAim,MAR03744,R01214,rn01100,Metabolic pathways
+VALTAim,MAR03744,R01214,rn01110,Biosynthesis of secondary metabolites
+VALTAim,MAR03744,R01214,rn01210,2-Oxocarboxylic acid metabolism
+VALTAim,MAR03744,R01214,rn01230,Biosynthesis of amino acids
+VALTAim,MAR03744,R01214,rn01240,Biosynthesis of cofactors
+arg_L_t,,,,
+ICDHxm,MAR03957,R00709,map00020,Citrate cycle (TCA cycle)
+ICDHxm,MAR03957,R00709,map01100,Metabolic pathways
+ICDHxm,MAR03957,R00709,map01110,Biosynthesis of secondary metabolites
+ICDHxm,MAR03957,R00709,map01120,Microbial metabolism in diverse environments
+ICDHxm,MAR03957,R00709,map01200,Carbon metabolism
+ICDHxm,MAR03957,R00709,map01210,2-Oxocarboxylic acid metabolism
+ICDHxm,MAR03957,R00709,map01230,Biosynthesis of amino acids
+ICDHxm,MAR03957,R00709,rn00020,Citrate cycle (TCA cycle)
+ICDHxm,MAR03957,R00709,rn01100,Metabolic pathways
+ICDHxm,MAR03957,R00709,rn01110,Biosynthesis of secondary metabolites
+ICDHxm,MAR03957,R00709,rn01120,Microbial metabolism in diverse environments
+ICDHxm,MAR03957,R00709,rn01200,Carbon metabolism
+ICDHxm,MAR03957,R00709,rn01210,2-Oxocarboxylic acid metabolism
+ICDHxm,MAR03957,R00709,rn01230,Biosynthesis of amino acids
+r0027,MAR03995,R00116,,
+t_Lcystin_glu__L,,,,
+GDR,,,,
+CSm,MAR04145,R00351,map00020,Citrate cycle (TCA cycle)
+CSm,MAR04145,R00351,map00630,Glyoxylate and dicarboxylate metabolism
+CSm,MAR04145,R00351,map01100,Metabolic pathways
+CSm,MAR04145,R00351,map01110,Biosynthesis of secondary metabolites
+CSm,MAR04145,R00351,map01120,Microbial metabolism in diverse environments
+CSm,MAR04145,R00351,map01200,Carbon metabolism
+CSm,MAR04145,R00351,map01210,2-Oxocarboxylic acid metabolism
+CSm,MAR04145,R00351,map01230,Biosynthesis of amino acids
+CSm,MAR04145,R00351,rn00020,Citrate cycle (TCA cycle)
+CSm,MAR04145,R00351,rn00630,Glyoxylate and dicarboxylate metabolism
+CSm,MAR04145,R00351,rn01100,Metabolic pathways
+CSm,MAR04145,R00351,rn01110,Biosynthesis of secondary metabolites
+CSm,MAR04145,R00351,rn01120,Microbial metabolism in diverse environments
+CSm,MAR04145,R00351,rn01200,Carbon metabolism
+CSm,MAR04145,R00351,rn01210,2-Oxocarboxylic acid metabolism
+CSm,MAR04145,R00351,rn01230,Biosynthesis of amino acids
+FOLR2,MAR04655,R02236,map00670,One carbon pool by folate
+FOLR2,MAR04655,R02236,map00790,Folate biosynthesis
+FOLR2,MAR04655,R02236,map01100,Metabolic pathways
+FOLR2,MAR04655,R02236,map01240,Biosynthesis of cofactors
+FOLR2,MAR04655,R02236,rn00670,One carbon pool by folate
+FOLR2,MAR04655,R02236,rn00790,Folate biosynthesis
+FOLR2,MAR04655,R02236,rn01100,Metabolic pathways
+FOLR2,MAR04655,R02236,rn01240,Biosynthesis of cofactors
+CYSTGL,MAR03881,R01001,map00260,"Glycine, serine and threonine metabolism"
+CYSTGL,MAR03881,R01001,map00270,Cysteine and methionine metabolism
+CYSTGL,MAR03881,R01001,map00670,One carbon pool by folate
+CYSTGL,MAR03881,R01001,map01100,Metabolic pathways
+CYSTGL,MAR03881,R01001,map01110,Biosynthesis of secondary metabolites
+CYSTGL,MAR03881,R01001,map01230,Biosynthesis of amino acids
+CYSTGL,MAR03881,R01001,rn00260,"Glycine, serine and threonine metabolism"
+CYSTGL,MAR03881,R01001,rn00270,Cysteine and methionine metabolism
+CYSTGL,MAR03881,R01001,rn00670,One carbon pool by folate
+CYSTGL,MAR03881,R01001,rn01100,Metabolic pathways
+CYSTGL,MAR03881,R01001,rn01110,Biosynthesis of secondary metabolites
+CYSTGL,MAR03881,R01001,rn01230,Biosynthesis of amino acids
+TKT2,MAR04404,R01067,map00030,Pentose phosphate pathway
+TKT2,MAR04404,R01067,map00710,Carbon fixation by Calvin cycle
+TKT2,MAR04404,R01067,map01100,Metabolic pathways
+TKT2,MAR04404,R01067,map01110,Biosynthesis of secondary metabolites
+TKT2,MAR04404,R01067,map01120,Microbial metabolism in diverse environments
+TKT2,MAR04404,R01067,map01200,Carbon metabolism
+TKT2,MAR04404,R01067,map01230,Biosynthesis of amino acids
+TKT2,MAR04404,R01067,rn00030,Pentose phosphate pathway
+TKT2,MAR04404,R01067,rn00710,Carbon fixation by Calvin cycle
+TKT2,MAR04404,R01067,rn01100,Metabolic pathways
+TKT2,MAR04404,R01067,rn01110,Biosynthesis of secondary metabolites
+TKT2,MAR04404,R01067,rn01120,Microbial metabolism in diverse environments
+TKT2,MAR04404,R01067,rn01200,Carbon metabolism
+TKT2,MAR04404,R01067,rn01230,Biosynthesis of amino acids
+NBAHH_ir,MAR04427,R01166,map00340,Histidine metabolism
+NBAHH_ir,MAR04427,R01166,map00410,beta-Alanine metabolism
+NBAHH_ir,MAR04427,R01166,map01100,Metabolic pathways
+NBAHH_ir,MAR04427,R01166,rn00340,Histidine metabolism
+NBAHH_ir,MAR04427,R01166,rn00410,beta-Alanine metabolism
+NBAHH_ir,MAR04427,R01166,rn01100,Metabolic pathways
+met_L_t,,,,
+pro_L_t,,,,
+carnitineAcylTransferaseII,,,,
+PHLACHt,MAR09960,,,
+PSERT,MAR03841,R04173,map00260,"Glycine, serine and threonine metabolism"
+PSERT,MAR03841,R04173,map00270,Cysteine and methionine metabolism
+PSERT,MAR03841,R04173,map00680,Methane metabolism
+PSERT,MAR03841,R04173,map01100,Metabolic pathways
+PSERT,MAR03841,R04173,map01110,Biosynthesis of secondary metabolites
+PSERT,MAR03841,R04173,map01120,Microbial metabolism in diverse environments
+PSERT,MAR03841,R04173,map01200,Carbon metabolism
+PSERT,MAR03841,R04173,map01230,Biosynthesis of amino acids
+PSERT,MAR03841,R04173,rn00260,"Glycine, serine and threonine metabolism"
+PSERT,MAR03841,R04173,rn00270,Cysteine and methionine metabolism
+PSERT,MAR03841,R04173,rn00680,Methane metabolism
+PSERT,MAR03841,R04173,rn01100,Metabolic pathways
+PSERT,MAR03841,R04173,rn01110,Biosynthesis of secondary metabolites
+PSERT,MAR03841,R04173,rn01120,Microbial metabolism in diverse environments
+PSERT,MAR03841,R04173,rn01200,Carbon metabolism
+PSERT,MAR03841,R04173,rn01230,Biosynthesis of amino acids
+GND,MAR04474,R01528,map00030,Pentose phosphate pathway
+GND,MAR04474,R01528,map00480,Glutathione metabolism
+GND,MAR04474,R01528,map01100,Metabolic pathways
+GND,MAR04474,R01528,map01110,Biosynthesis of secondary metabolites
+GND,MAR04474,R01528,map01120,Microbial metabolism in diverse environments
+GND,MAR04474,R01528,map01200,Carbon metabolism
+GND,MAR04474,R01528,rn00030,Pentose phosphate pathway
+GND,MAR04474,R01528,rn00480,Glutathione metabolism
+GND,MAR04474,R01528,rn01100,Metabolic pathways
+GND,MAR04474,R01528,rn01110,Biosynthesis of secondary metabolites
+GND,MAR04474,R01528,rn01120,Microbial metabolism in diverse environments
+GND,MAR04474,R01528,rn01200,Carbon metabolism
+HMR_1495,MAR01495,R07494,map00100,Steroid biosynthesis
+HMR_1495,MAR01495,R07494,map01100,Metabolic pathways
+HMR_1495,MAR01495,R07494,map01110,Biosynthesis of secondary metabolites
+HMR_1495,MAR01495,R07494,rn00100,Steroid biosynthesis
+HMR_1495,MAR01495,R07494,rn01100,Metabolic pathways
+HMR_1495,MAR01495,R07494,rn01110,Biosynthesis of secondary metabolites
+asn_L_t,,,,
+GLUt2m,MAR05122,,,
+MTHFC,MAR04503,R01655,map00670,One carbon pool by folate
+MTHFC,MAR04503,R01655,map00720,Other carbon fixation pathways
+MTHFC,MAR04503,R01655,map01100,Metabolic pathways
+MTHFC,MAR04503,R01655,map01120,Microbial metabolism in diverse environments
+MTHFC,MAR04503,R01655,map01200,Carbon metabolism
+MTHFC,MAR04503,R01655,map01240,Biosynthesis of cofactors
+MTHFC,MAR04503,R01655,rn00670,One carbon pool by folate
+MTHFC,MAR04503,R01655,rn00720,Other carbon fixation pathways
+MTHFC,MAR04503,R01655,rn01100,Metabolic pathways
+MTHFC,MAR04503,R01655,rn01120,Microbial metabolism in diverse environments
+MTHFC,MAR04503,R01655,rn01200,Carbon metabolism
+MTHFC,MAR04503,R01655,rn01240,Biosynthesis of cofactors
+GDRm,,,,
+Transport_4abut_c_e,,,,
+P5CR,MAR03833,R01251,map00330,Arginine and proline metabolism
+P5CR,MAR03833,R01251,map01100,Metabolic pathways
+P5CR,MAR03833,R01251,map01110,Biosynthesis of secondary metabolites
+P5CR,MAR03833,R01251,map01230,Biosynthesis of amino acids
+P5CR,MAR03833,R01251,rn00330,Arginine and proline metabolism
+P5CR,MAR03833,R01251,rn01100,Metabolic pathways
+P5CR,MAR03833,R01251,rn01110,Biosynthesis of secondary metabolites
+P5CR,MAR03833,R01251,rn01230,Biosynthesis of amino acids
+SERD_L,MAR03883,R00220,map00260,"Glycine, serine and threonine metabolism"
+SERD_L,MAR03883,R00220,map01100,Metabolic pathways
+SERD_L,MAR03883,R00220,map01110,Biosynthesis of secondary metabolites
+SERD_L,MAR03883,R00220,map01200,Carbon metabolism
+SERD_L,MAR03883,R00220,map01230,Biosynthesis of amino acids
+SERD_L,MAR03883,R00220,rn00260,"Glycine, serine and threonine metabolism"
+SERD_L,MAR03883,R00220,rn01100,Metabolic pathways
+SERD_L,MAR03883,R00220,rn01110,Biosynthesis of secondary metabolites
+SERD_L,MAR03883,R00220,rn01200,Carbon metabolism
+SERD_L,MAR03883,R00220,rn01230,Biosynthesis of amino acids
+GHMT2r,MAR03845,R00945,map00260,"Glycine, serine and threonine metabolism"
+GHMT2r,MAR03845,R00945,map00460,Cyanoamino acid metabolism
+GHMT2r,MAR03845,R00945,map00630,Glyoxylate and dicarboxylate metabolism
+GHMT2r,MAR03845,R00945,map00670,One carbon pool by folate
+GHMT2r,MAR03845,R00945,map00680,Methane metabolism
+GHMT2r,MAR03845,R00945,map01100,Metabolic pathways
+GHMT2r,MAR03845,R00945,map01110,Biosynthesis of secondary metabolites
+GHMT2r,MAR03845,R00945,map01120,Microbial metabolism in diverse environments
+GHMT2r,MAR03845,R00945,map01200,Carbon metabolism
+GHMT2r,MAR03845,R00945,map01230,Biosynthesis of amino acids
+GHMT2r,MAR03845,R00945,map01240,Biosynthesis of cofactors
+GHMT2r,MAR03845,R00945,rn00260,"Glycine, serine and threonine metabolism"
+GHMT2r,MAR03845,R00945,rn00460,Cyanoamino acid metabolism
+GHMT2r,MAR03845,R00945,rn00630,Glyoxylate and dicarboxylate metabolism
+GHMT2r,MAR03845,R00945,rn00670,One carbon pool by folate
+GHMT2r,MAR03845,R00945,rn00680,Methane metabolism
+GHMT2r,MAR03845,R00945,rn01100,Metabolic pathways
+GHMT2r,MAR03845,R00945,rn01110,Biosynthesis of secondary metabolites
+GHMT2r,MAR03845,R00945,rn01120,Microbial metabolism in diverse environments
+GHMT2r,MAR03845,R00945,rn01200,Carbon metabolism
+GHMT2r,MAR03845,R00945,rn01230,Biosynthesis of amino acids
+GHMT2r,MAR03845,R00945,rn01240,Biosynthesis of cofactors
+ICDHyr,MAR00710,R00267,map00480,Glutathione metabolism
+ICDHyr,MAR00710,R00267,map00720,Other carbon fixation pathways
+ICDHyr,MAR00710,R00267,map01100,Metabolic pathways
+ICDHyr,MAR00710,R00267,map01120,Microbial metabolism in diverse environments
+ICDHyr,MAR00710,R00267,map01200,Carbon metabolism
+ICDHyr,MAR00710,R00267,map01210,2-Oxocarboxylic acid metabolism
+ICDHyr,MAR00710,R00267,map01230,Biosynthesis of amino acids
+ICDHyr,MAR00710,R00267,rn00480,Glutathione metabolism
+ICDHyr,MAR00710,R00267,rn00720,Other carbon fixation pathways
+ICDHyr,MAR00710,R00267,rn01100,Metabolic pathways
+ICDHyr,MAR00710,R00267,rn01120,Microbial metabolism in diverse environments
+ICDHyr,MAR00710,R00267,rn01200,Carbon metabolism
+ICDHyr,MAR00710,R00267,rn01210,2-Oxocarboxylic acid metabolism
+ICDHyr,MAR00710,R00267,rn01230,Biosynthesis of amino acids
+URIDK2r,MAR03968,R02098,map00240,Pyrimidine metabolism
+URIDK2r,MAR03968,R02098,map01100,Metabolic pathways
+URIDK2r,MAR03968,R02098,map01232,Nucleotide metabolism
+URIDK2r,MAR03968,R02098,rn00240,Pyrimidine metabolism
+URIDK2r,MAR03968,R02098,rn01100,Metabolic pathways
+URIDK2r,MAR03968,R02098,rn01232,Nucleotide metabolism
+leu_L_t,,,,
+CO2t,MAR04919,,,
+CO2tm,MAR04922,,,
+MMMm,MAR03215,R00833,map00280,"Valine, leucine and isoleucine degradation"
+MMMm,MAR03215,R00833,map00630,Glyoxylate and dicarboxylate metabolism
+MMMm,MAR03215,R00833,map00640,Propanoate metabolism
+MMMm,MAR03215,R00833,map00720,Other carbon fixation pathways
+MMMm,MAR03215,R00833,map01100,Metabolic pathways
+MMMm,MAR03215,R00833,map01120,Microbial metabolism in diverse environments
+MMMm,MAR03215,R00833,map01200,Carbon metabolism
+MMMm,MAR03215,R00833,rn00280,"Valine, leucine and isoleucine degradation"
+MMMm,MAR03215,R00833,rn00630,Glyoxylate and dicarboxylate metabolism
+MMMm,MAR03215,R00833,rn00640,Propanoate metabolism
+MMMm,MAR03215,R00833,rn00720,Other carbon fixation pathways
+MMMm,MAR03215,R00833,rn01100,Metabolic pathways
+MMMm,MAR03215,R00833,rn01120,Microbial metabolism in diverse environments
+MMMm,MAR03215,R00833,rn01200,Carbon metabolism
+3MOPt2im,MAR08093,,,
+DHFR,MAR04333,R00939,map00670,One carbon pool by folate
+DHFR,MAR04333,R00939,map00790,Folate biosynthesis
+DHFR,MAR04333,R00939,map01100,Metabolic pathways
+DHFR,MAR04333,R00939,map01240,Biosynthesis of cofactors
+DHFR,MAR04333,R00939,rn00670,One carbon pool by folate
+DHFR,MAR04333,R00939,rn00790,Folate biosynthesis
+DHFR,MAR04333,R00939,rn01100,Metabolic pathways
+DHFR,MAR04333,R00939,rn01240,Biosynthesis of cofactors
+H2Otm,MAR04888,,,
+OBDHc,MAR08442,,,
+FORtm,MAR04944,,,
+thr_L_t,,,,
+MTHFR3,MAR04446,R01224,map00670,One carbon pool by folate
+MTHFR3,MAR04446,R01224,map01100,Metabolic pathways
+MTHFR3,MAR04446,R01224,map01120,Microbial metabolism in diverse environments
+MTHFR3,MAR04446,R01224,rn00670,One carbon pool by folate
+MTHFR3,MAR04446,R01224,rn01100,Metabolic pathways
+MTHFR3,MAR04446,R01224,rn01120,Microbial metabolism in diverse environments
+MACACI,MAR06776,R03181,map00350,Tyrosine metabolism
+MACACI,MAR06776,R03181,map00643,Styrene degradation
+MACACI,MAR06776,R03181,map01100,Metabolic pathways
+MACACI,MAR06776,R03181,map01120,Microbial metabolism in diverse environments
+MACACI,MAR06776,R03181,rn00350,Tyrosine metabolism
+MACACI,MAR06776,R03181,rn00643,Styrene degradation
+MACACI,MAR06776,R03181,rn01100,Metabolic pathways
+MACACI,MAR06776,R03181,rn01120,Microbial metabolism in diverse environments
+ASPTA,MAR03829,R00355,map00220,Arginine biosynthesis
+ASPTA,MAR03829,R00355,map00250,"Alanine, aspartate and glutamate metabolism"
+ASPTA,MAR03829,R00355,map00710,Carbon fixation by Calvin cycle
+ASPTA,MAR03829,R00355,map01100,Metabolic pathways
+ASPTA,MAR03829,R00355,map01110,Biosynthesis of secondary metabolites
+ASPTA,MAR03829,R00355,map01120,Microbial metabolism in diverse environments
+ASPTA,MAR03829,R00355,map01200,Carbon metabolism
+ASPTA,MAR03829,R00355,map01210,2-Oxocarboxylic acid metabolism
+ASPTA,MAR03829,R00355,map01230,Biosynthesis of amino acids
+ASPTA,MAR03829,R00355,rn00220,Arginine biosynthesis
+ASPTA,MAR03829,R00355,rn00250,"Alanine, aspartate and glutamate metabolism"
+ASPTA,MAR03829,R00355,rn00710,Carbon fixation by Calvin cycle
+ASPTA,MAR03829,R00355,rn01100,Metabolic pathways
+ASPTA,MAR03829,R00355,rn01110,Biosynthesis of secondary metabolites
+ASPTA,MAR03829,R00355,rn01120,Microbial metabolism in diverse environments
+ASPTA,MAR03829,R00355,rn01200,Carbon metabolism
+ASPTA,MAR03829,R00355,rn01210,2-Oxocarboxylic acid metabolism
+ASPTA,MAR03829,R00355,rn01230,Biosynthesis of amino acids
+VALt5m,MAR05118,,,
+t_Lcystin_leu__L,,,,
+3SPYRSP,MAR03851,R04861,map00270,Cysteine and methionine metabolism
+3SPYRSP,MAR03851,R04861,map01100,Metabolic pathways
+3SPYRSP,MAR03851,R04861,rn00270,Cysteine and methionine metabolism
+3SPYRSP,MAR03851,R04861,rn01100,Metabolic pathways
+MMSAD1m,MAR03795,R00922,map00280,"Valine, leucine and isoleucine degradation"
+MMSAD1m,MAR03795,R00922,rn00280,"Valine, leucine and isoleucine degradation"
+t_Lcystin_ser__L,,,,
+RPI,MAR04352,R01056,map00030,Pentose phosphate pathway
+RPI,MAR04352,R01056,map00710,Carbon fixation by Calvin cycle
+RPI,MAR04352,R01056,map01100,Metabolic pathways
+RPI,MAR04352,R01056,map01110,Biosynthesis of secondary metabolites
+RPI,MAR04352,R01056,map01120,Microbial metabolism in diverse environments
+RPI,MAR04352,R01056,map01200,Carbon metabolism
+RPI,MAR04352,R01056,map01230,Biosynthesis of amino acids
+RPI,MAR04352,R01056,rn00030,Pentose phosphate pathway
+RPI,MAR04352,R01056,rn00710,Carbon fixation by Calvin cycle
+RPI,MAR04352,R01056,rn01100,Metabolic pathways
+RPI,MAR04352,R01056,rn01110,Biosynthesis of secondary metabolites
+RPI,MAR04352,R01056,rn01120,Microbial metabolism in diverse environments
+RPI,MAR04352,R01056,rn01200,Carbon metabolism
+RPI,MAR04352,R01056,rn01230,Biosynthesis of amino acids
+ACONT,MAR04454,R01324,map01100,Metabolic pathways
+ACONT,MAR04454,R01324,map01200,Carbon metabolism
+ACONT,MAR04454,R01324,map01210,2-Oxocarboxylic acid metabolism
+ACONT,MAR04454,R01324,map01230,Biosynthesis of amino acids
+ACONT,MAR04454,R01324,rn01100,Metabolic pathways
+ACONT,MAR04454,R01324,rn01200,Carbon metabolism
+ACONT,MAR04454,R01324,rn01210,2-Oxocarboxylic acid metabolism
+ACONT,MAR04454,R01324,rn01230,Biosynthesis of amino acids
+GLUN,,,,
+CARN160t_m,,,,
+CYSTS,MAR03879,R01290,map00260,"Glycine, serine and threonine metabolism"
+CYSTS,MAR03879,R01290,map00270,Cysteine and methionine metabolism
+CYSTS,MAR03879,R01290,map00670,One carbon pool by folate
+CYSTS,MAR03879,R01290,map01100,Metabolic pathways
+CYSTS,MAR03879,R01290,map01110,Biosynthesis of secondary metabolites
+CYSTS,MAR03879,R01290,map01230,Biosynthesis of amino acids
+CYSTS,MAR03879,R01290,rn00260,"Glycine, serine and threonine metabolism"
+CYSTS,MAR03879,R01290,rn00270,Cysteine and methionine metabolism
+CYSTS,MAR03879,R01290,rn00670,One carbon pool by folate
+CYSTS,MAR03879,R01290,rn01100,Metabolic pathways
+CYSTS,MAR03879,R01290,rn01110,Biosynthesis of secondary metabolites
+CYSTS,MAR03879,R01290,rn01230,Biosynthesis of amino acids
+PYRt2m,MAR04926,,,
+3HBCDm,MAR07709,R03027,map00630,Glyoxylate and dicarboxylate metabolism
+3HBCDm,MAR07709,R03027,map00650,Butanoate metabolism
+3HBCDm,MAR07709,R03027,map01100,Metabolic pathways
+3HBCDm,MAR07709,R03027,map01120,Microbial metabolism in diverse environments
+3HBCDm,MAR07709,R03027,map01200,Carbon metabolism
+3HBCDm,MAR07709,R03027,rn00630,Glyoxylate and dicarboxylate metabolism
+3HBCDm,MAR07709,R03027,rn00650,Butanoate metabolism
+3HBCDm,MAR07709,R03027,rn01100,Metabolic pathways
+3HBCDm,MAR07709,R03027,rn01120,Microbial metabolism in diverse environments
+3HBCDm,MAR07709,R03027,rn01200,Carbon metabolism
+ME2,MAR04089,R00216,map00620,Pyruvate metabolism
+ME2,MAR04089,R00216,map00710,Carbon fixation by Calvin cycle
+ME2,MAR04089,R00216,map01100,Metabolic pathways
+ME2,MAR04089,R00216,map01120,Microbial metabolism in diverse environments
+ME2,MAR04089,R00216,map01200,Carbon metabolism
+ME2,MAR04089,R00216,rn00620,Pyruvate metabolism
+ME2,MAR04089,R00216,rn00710,Carbon fixation by Calvin cycle
+ME2,MAR04089,R00216,rn01100,Metabolic pathways
+ME2,MAR04089,R00216,rn01120,Microbial metabolism in diverse environments
+ME2,MAR04089,R00216,rn01200,Carbon metabolism
+HGNTOR,MAR06774,R02519,map00350,Tyrosine metabolism
+HGNTOR,MAR06774,R02519,map00643,Styrene degradation
+HGNTOR,MAR06774,R02519,map01100,Metabolic pathways
+HGNTOR,MAR06774,R02519,map01120,Microbial metabolism in diverse environments
+HGNTOR,MAR06774,R02519,rn00350,Tyrosine metabolism
+HGNTOR,MAR06774,R02519,rn00643,Styrene degradation
+HGNTOR,MAR06774,R02519,rn01100,Metabolic pathways
+HGNTOR,MAR06774,R02519,rn01120,Microbial metabolism in diverse environments
+r0465_1,,,,
+PPCOAtm,,,,
+PYRt2,MAR04928,,,
+PDHm,,,,
+ACITL,MAR04149,R00352,map00020,Citrate cycle (TCA cycle)
+ACITL,MAR04149,R00352,map00720,Other carbon fixation pathways
+ACITL,MAR04149,R00352,map01100,Metabolic pathways
+ACITL,MAR04149,R00352,map01110,Biosynthesis of secondary metabolites
+ACITL,MAR04149,R00352,map01120,Microbial metabolism in diverse environments
+ACITL,MAR04149,R00352,map01200,Carbon metabolism
+ACITL,MAR04149,R00352,rn00020,Citrate cycle (TCA cycle)
+ACITL,MAR04149,R00352,rn00720,Other carbon fixation pathways
+ACITL,MAR04149,R00352,rn01100,Metabolic pathways
+ACITL,MAR04149,R00352,rn01110,Biosynthesis of secondary metabolites
+ACITL,MAR04149,R00352,rn01120,Microbial metabolism in diverse environments
+ACITL,MAR04149,R00352,rn01200,Carbon metabolism
+r0801,,,,
+PTRCOX1,MAR08606,R01151,map00330,Arginine and proline metabolism
+PTRCOX1,MAR08606,R01151,map01100,Metabolic pathways
+PTRCOX1,MAR08606,R01151,rn00330,Arginine and proline metabolism
+PTRCOX1,MAR08606,R01151,rn01100,Metabolic pathways
+2OXOADOXm,MAR04599,R13167,map00310,Lysine degradation
+2OXOADOXm,MAR04599,R13167,map00785,Lipoic acid metabolism
+2OXOADOXm,MAR04599,R13167,rn00310,Lysine degradation
+2OXOADOXm,MAR04599,R13167,rn00785,Lipoic acid metabolism
+TPI,MAR04391,R01015,map00010,Glycolysis / Gluconeogenesis
+TPI,MAR04391,R01015,map00051,Fructose and mannose metabolism
+TPI,MAR04391,R01015,map00562,Inositol phosphate metabolism
+TPI,MAR04391,R01015,map00710,Carbon fixation by Calvin cycle
+TPI,MAR04391,R01015,map01100,Metabolic pathways
+TPI,MAR04391,R01015,map01110,Biosynthesis of secondary metabolites
+TPI,MAR04391,R01015,map01120,Microbial metabolism in diverse environments
+TPI,MAR04391,R01015,map01200,Carbon metabolism
+TPI,MAR04391,R01015,map01230,Biosynthesis of amino acids
+TPI,MAR04391,R01015,rn00010,Glycolysis / Gluconeogenesis
+TPI,MAR04391,R01015,rn00051,Fructose and mannose metabolism
+TPI,MAR04391,R01015,rn00562,Inositol phosphate metabolism
+TPI,MAR04391,R01015,rn00710,Carbon fixation by Calvin cycle
+TPI,MAR04391,R01015,rn01100,Metabolic pathways
+TPI,MAR04391,R01015,rn01110,Biosynthesis of secondary metabolites
+TPI,MAR04391,R01015,rn01120,Microbial metabolism in diverse environments
+TPI,MAR04391,R01015,rn01200,Carbon metabolism
+TPI,MAR04391,R01015,rn01230,Biosynthesis of amino acids
+PGCD,MAR03839,R01513,map00260,"Glycine, serine and threonine metabolism"
+PGCD,MAR03839,R01513,map00270,Cysteine and methionine metabolism
+PGCD,MAR03839,R01513,map00680,Methane metabolism
+PGCD,MAR03839,R01513,map01100,Metabolic pathways
+PGCD,MAR03839,R01513,map01110,Biosynthesis of secondary metabolites
+PGCD,MAR03839,R01513,map01120,Microbial metabolism in diverse environments
+PGCD,MAR03839,R01513,map01200,Carbon metabolism
+PGCD,MAR03839,R01513,map01230,Biosynthesis of amino acids
+PGCD,MAR03839,R01513,rn00260,"Glycine, serine and threonine metabolism"
+PGCD,MAR03839,R01513,rn00270,Cysteine and methionine metabolism
+PGCD,MAR03839,R01513,rn00680,Methane metabolism
+PGCD,MAR03839,R01513,rn01100,Metabolic pathways
+PGCD,MAR03839,R01513,rn01110,Biosynthesis of secondary metabolites
+PGCD,MAR03839,R01513,rn01120,Microbial metabolism in diverse environments
+PGCD,MAR03839,R01513,rn01200,Carbon metabolism
+PGCD,MAR03839,R01513,rn01230,Biosynthesis of amino acids
+GTHOr,MAR04118,R00115,map00480,Glutathione metabolism
+GTHOr,MAR04118,R00115,map01100,Metabolic pathways
+GTHOr,MAR04118,R00115,rn00480,Glutathione metabolism
+GTHOr,MAR04118,R00115,rn01100,Metabolic pathways
+FUM,MAR04408,R01082,map00020,Citrate cycle (TCA cycle)
+FUM,MAR04408,R01082,map00620,Pyruvate metabolism
+FUM,MAR04408,R01082,map00720,Other carbon fixation pathways
+FUM,MAR04408,R01082,map01100,Metabolic pathways
+FUM,MAR04408,R01082,map01110,Biosynthesis of secondary metabolites
+FUM,MAR04408,R01082,map01120,Microbial metabolism in diverse environments
+FUM,MAR04408,R01082,map01200,Carbon metabolism
+FUM,MAR04408,R01082,rn00020,Citrate cycle (TCA cycle)
+FUM,MAR04408,R01082,rn00620,Pyruvate metabolism
+FUM,MAR04408,R01082,rn00720,Other carbon fixation pathways
+FUM,MAR04408,R01082,rn01100,Metabolic pathways
+FUM,MAR04408,R01082,rn01110,Biosynthesis of secondary metabolites
+FUM,MAR04408,R01082,rn01120,Microbial metabolism in diverse environments
+FUM,MAR04408,R01082,rn01200,Carbon metabolism
+HMR_3996,MAR03996,R00892,map00270,Cysteine and methionine metabolism
+HMR_3996,MAR03996,R00892,map01100,Metabolic pathways
+HMR_3996,MAR03996,R00892,rn00270,Cysteine and methionine metabolism
+HMR_3996,MAR03996,R00892,rn01100,Metabolic pathways
+GTHOm,MAR03870,R00115,map00480,Glutathione metabolism
+GTHOm,MAR03870,R00115,map01100,Metabolic pathways
+GTHOm,MAR03870,R00115,rn00480,Glutathione metabolism
+GTHOm,MAR03870,R00115,rn01100,Metabolic pathways
+r0407,MAR04355,R01829,map00710,Carbon fixation by Calvin cycle
+r0407,MAR04355,R01829,map01100,Metabolic pathways
+r0407,MAR04355,R01829,map01120,Microbial metabolism in diverse environments
+r0407,MAR04355,R01829,map01200,Carbon metabolism
+r0407,MAR04355,R01829,rn00710,Carbon fixation by Calvin cycle
+r0407,MAR04355,R01829,rn01100,Metabolic pathways
+r0407,MAR04355,R01829,rn01120,Microbial metabolism in diverse environments
+r0407,MAR04355,R01829,rn01200,Carbon metabolism
+HCO3Em,MAR03956,R10092,map00910,Nitrogen metabolism
+HCO3Em,MAR03956,R10092,map01100,Metabolic pathways
+HCO3Em,MAR03956,R10092,rn00910,Nitrogen metabolism
+HCO3Em,MAR03956,R10092,rn01100,Metabolic pathways
+gln_L_t,,,,
+ME1m,MAR04087,R00214,map00620,Pyruvate metabolism
+ME1m,MAR04087,R00214,map00710,Carbon fixation by Calvin cycle
+ME1m,MAR04087,R00214,map01100,Metabolic pathways
+ME1m,MAR04087,R00214,map01120,Microbial metabolism in diverse environments
+ME1m,MAR04087,R00214,map01200,Carbon metabolism
+ME1m,MAR04087,R00214,rn00620,Pyruvate metabolism
+ME1m,MAR04087,R00214,rn00710,Carbon fixation by Calvin cycle
+ME1m,MAR04087,R00214,rn01100,Metabolic pathways
+ME1m,MAR04087,R00214,rn01120,Microbial metabolism in diverse environments
+ME1m,MAR04087,R00214,rn01200,Carbon metabolism
+ala_L_t,,,,
+MDHm,MAR04141,R00342,map00020,Citrate cycle (TCA cycle)
+MDHm,MAR04141,R00342,map00620,Pyruvate metabolism
+MDHm,MAR04141,R00342,map00630,Glyoxylate and dicarboxylate metabolism
+MDHm,MAR04141,R00342,map00680,Methane metabolism
+MDHm,MAR04141,R00342,map00710,Carbon fixation by Calvin cycle
+MDHm,MAR04141,R00342,map00720,Other carbon fixation pathways
+MDHm,MAR04141,R00342,map01100,Metabolic pathways
+MDHm,MAR04141,R00342,map01110,Biosynthesis of secondary metabolites
+MDHm,MAR04141,R00342,map01120,Microbial metabolism in diverse environments
+MDHm,MAR04141,R00342,map01200,Carbon metabolism
+MDHm,MAR04141,R00342,rn00020,Citrate cycle (TCA cycle)
+MDHm,MAR04141,R00342,rn00620,Pyruvate metabolism
+MDHm,MAR04141,R00342,rn00630,Glyoxylate and dicarboxylate metabolism
+MDHm,MAR04141,R00342,rn00680,Methane metabolism
+MDHm,MAR04141,R00342,rn00710,Carbon fixation by Calvin cycle
+MDHm,MAR04141,R00342,rn00720,Other carbon fixation pathways
+MDHm,MAR04141,R00342,rn01100,Metabolic pathways
+MDHm,MAR04141,R00342,rn01110,Biosynthesis of secondary metabolites
+MDHm,MAR04141,R00342,rn01120,Microbial metabolism in diverse environments
+MDHm,MAR04141,R00342,rn01200,Carbon metabolism
+ECOAH12m,MAR03753,R04224,map00280,"Valine, leucine and isoleucine degradation"
+ECOAH12m,MAR03753,R04224,map01100,Metabolic pathways
+ECOAH12m,MAR03753,R04224,rn00280,"Valine, leucine and isoleucine degradation"
+ECOAH12m,MAR03753,R04224,rn01100,Metabolic pathways
+FADH2ETC,MAR06911,,,
+LYStm,MAR06321,,,
+MTHFD,MAR04442,R01220,map00670,One carbon pool by folate
+MTHFD,MAR04442,R01220,map00720,Other carbon fixation pathways
+MTHFD,MAR04442,R01220,map01100,Metabolic pathways
+MTHFD,MAR04442,R01220,map01120,Microbial metabolism in diverse environments
+MTHFD,MAR04442,R01220,map01200,Carbon metabolism
+MTHFD,MAR04442,R01220,map01240,Biosynthesis of cofactors
+MTHFD,MAR04442,R01220,rn00670,One carbon pool by folate
+MTHFD,MAR04442,R01220,rn00720,Other carbon fixation pathways
+MTHFD,MAR04442,R01220,rn01100,Metabolic pathways
+MTHFD,MAR04442,R01220,rn01120,Microbial metabolism in diverse environments
+MTHFD,MAR04442,R01220,rn01200,Carbon metabolism
+MTHFD,MAR04442,R01220,rn01240,Biosynthesis of cofactors
